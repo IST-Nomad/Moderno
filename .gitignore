@@ -1,4 +1,9 @@
-
-
-package-lock.json,
+.DS_Store
+.AppleDouble
+.LSOverride
+.vs
 node_modules
+app/css/
+app/fonts
+app/images
+package-lock.json

@@ -1,20 +1,9 @@
 html {
   box-sizing: border-box;
-  // background-color: blue;
+  background-color: orange;
 }
 *,
 *::before,
 *::after {
   box-sizing: inherit;
-}
-body {
-  margin: 0;
-  padding: 0;
-}
-.test {
-  color: aqua;
-}
-.box {
-  display: flex;
-  transition: all 0.3s;
 }
